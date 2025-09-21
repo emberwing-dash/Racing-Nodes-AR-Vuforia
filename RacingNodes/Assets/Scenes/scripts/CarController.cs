@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class CarController : MonoBehaviour
 {
-    [SerializeField] private float speed;
+    [SerializeField] private float speed = 3f;
     [SerializeField] private float rotateAngle = 15f; // angle per button press
 
     [SerializeField] FixedJoystick fJK;
