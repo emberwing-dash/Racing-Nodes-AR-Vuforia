@@ -8,7 +8,10 @@ EditorBuildSettings:
   - enabled: 0
     path: Assets/SamplesResources/Scenes/0-Main.unity
     guid: a09cb257d566c489595b16ab37547666
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/scenes/Race.unity
     guid: dd7c1b4f1283ec64284d2b98622110cd
+  - enabled: 1
+    path: Assets/Scenes/scenes/RaceFinal.unity
+    guid: b7fddc5c17a0d024aada35312e36102c
   m_configObjects: {}
